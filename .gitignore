@@ -1,0 +1,6 @@
+.secret
+.infurakey
+node_modules
+build
+_tmp
+package-lock.json
